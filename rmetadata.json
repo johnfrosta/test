@@ -1,0 +1,10 @@
+{
+  "name": "MyTestToken",
+  "symbol": "MTKN",
+  "description": "test description",
+  "image": "https://raw.githubusercontent.com/johnfrosta/test/main/mtknlogo.png",
+  "extensions": {
+    "website": "https://mytesttoken.com",
+    "twitter": "https://x.com/mytesttoken"
+  }
+}
